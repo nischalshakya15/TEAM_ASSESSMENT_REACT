@@ -1,0 +1,6 @@
+build
+node_modules
+.dockerignore
+Docker
+.env.example
+.env
